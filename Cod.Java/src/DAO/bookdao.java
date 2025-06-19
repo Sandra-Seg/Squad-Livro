@@ -5,7 +5,7 @@ import register.book;
 
 public class bookdao {
 
-    public void bookregister (Book book);{
+    public void register.book (Book book);{
 
         String sql = "INSERT INTO BOOK (id, isbn, author_name, title, subtitle, publisher, book_subject, book_language, publication_date, page_numbers, book_genre) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)";
 
