@@ -4,9 +4,11 @@ Gerenciamento de livros
 ___
 
 ### Minhas Tarefas
-[] Modelagem Banco de Dados-tabela **Book**
+- [x] Modelagem Banco de Dados-tabela **Book**
 
-[] Criar Banco de dado **Book** no SQLWorkbench
+- [x] Criar Banco de dado **Book** no MySQLWorkbench
+
+- [ ] Possível próxima tarefa Criar conexão [código - banco de dados] 
 
 ___
 
@@ -19,6 +21,10 @@ ___
 ___
 
 ### Banco de dados *Tabela Book* 
+
+
+![database](https://github.com/user-attachments/assets/2c0786ad-889e-4e96-9b9b-2d5d94790b96)
+
 
 
 
